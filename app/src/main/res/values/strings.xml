@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MascotasS5</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="title_activity_contacto">ContactoActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_img_star_icon">favoritoImg</string>
+    <string name="description_img_avatar_pet">MascotaImg</string>
+    <string name="description_img_footprint">footPrint</string>
+    <string name="description_img_bone">huesoImg</string>
+    <string name="description_img_bone_gold">huesoOroImg</string>
+    <string name="nickname_pet">MiMascota</string>
+    <string name="nickname_pet1">Luna</string>
+    <string name="nickname_pet2">Manchas</string>
+    <string name="nickname_pet3">Teo</string>
+    <string name="nickname_pet4">Firulay</string>
+    <string name="nickname_pet5">Bambie</string>
+    <string name="nickname_pet6">Eva</string>
+    <string name="raiting_num_pet">5</string>
+    <string name="favorite_pets">Favorito Mascotas</string>
+    <string name="card_view_textNombre">Nombre</string>
+    <string name="text_menu_about">Acerca de</string>
+    <string name="text_menu_contacto">Contacto</string>
+    <string name="text_menu_fav">Fav</string>
+    <string name="text_input_nombre">Nombre Completo:</string>
+    <string name="text_input_correo">Email:</string>
+    <string name="text_input_mensaje">Mensaje:</string>
+    <string name="text_view_contactoTitulo">Contactanos</string>
+    <string name="text_view_contactoMensaje">Envía un correo y estaremos en contacto</string>
+    <string name="button_enviar_comentario">Enviar Comentario</string>
+    <string name="text_view_acercaDe_Encabezado">Acerca de...</string>
+    <string name="text_view_acercaDe_Informaciones">Desarrollo de aplicaciones con Android</string>
+    <string name="text_view_acercaDeVersion">V. 1.0.0</string>
+    <string name="text_view_acercaDeDesarrollador">Empresa: siacademica</string>
+    <string name="text_cardViewMiMascota">LUNA</string>
+</resources>
